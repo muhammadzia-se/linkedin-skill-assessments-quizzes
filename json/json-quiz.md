@@ -673,8 +673,8 @@ Note: None of the above options appear to be correct. A correct answer would be 
 
 ```json
 {
-  "series": "Star Trek",
-  "episodes": "The Trouble with Tribbles"
+  series: "Star Trek",
+  episodes: "The Trouble with Tribbles"
 }
 ```
 
